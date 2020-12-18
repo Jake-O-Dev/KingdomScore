@@ -1,0 +1,4 @@
+name: KingdomScore
+version: ${project.version}
+main: com.boredbirb.kingdomscore.Kingdomscore
+api-version: 1.13
